@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/index/index",
     "pages/index14/index14",
     "pages/index13/index13",
     "pages/index12/index12",
@@ -13,8 +14,6 @@
     "pages/index4/index4",
     "pages/index3/index3",
     "pages/index2/index2",
-    "pages/index/index",
-    
     "pages/logs/logs"
   ],
   "window": {
