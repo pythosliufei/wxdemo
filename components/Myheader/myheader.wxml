@@ -1,0 +1,3 @@
+<view class="my_header">
+{{cData}}
+</view>
